@@ -14,7 +14,7 @@
     <img src="image.png" height="18"> Conhecimentos básicos em <b>Wordpress</b>
   </li>
   <li style="display: flex; align-items: center; gap: 8px;">
-    <img src="image copy.png" height="18" style="margin-right: -7px; margin-left: -5px;"> Iniciante em sistemas<b>Oracle e Oracle Apex</b>
+    <img src="image copy.png" height="18" style="margin-right: -7px; margin-left: -5px;"> Iniciante em sistemas <b>Oracle e Oracle Apex</b>
   </li>
   <li style="display: flex; align-items: center; gap: 8px;">🏎️ Grande Fã do <b>Ayrton Senna</b></li>
 </ul>
